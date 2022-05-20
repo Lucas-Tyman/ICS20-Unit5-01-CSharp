@@ -1,4 +1,4 @@
-// Created by: Kenny Le
+// Created by: Lucas Tyman
 // Created on: Apr 2022
 //
 // This program guesses the correct number
